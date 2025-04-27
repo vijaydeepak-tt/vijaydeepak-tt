@@ -19,8 +19,8 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 New CLI**
-- 🌱 I'm currently learning: **📚 Micro Frontend and Database**
+- 💼 I'm currently working on: **💻 My Personal project**
+- 🌱 I'm currently learning: **📚 AI Technologies and Database**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vijay-deepak)
 - 💬 Ask me about: **💡 JavaScript, React, and RESTful APIs**
 - 📝 Blog: **<a href="https://tarzzotech.medium.com/" target="_blank">https://tarzzotech.medium.com/</a>**
